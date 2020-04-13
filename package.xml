@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>python-transitions</name>
+  <version>0.4.3</version>
+  <description>A lightweight, object-oriented finite state machine implementation in Python</description>
+  <maintainer email="tyarkoni@gmail.com">Tal Yarkoni</maintainer>
+  <license>MIT License</license>
+
+  <buildtool_depend>python</buildtool_depend>
+  <exec_depend>six</exec_depend>
+  
+  <export><build_type>python</build_type></export>
+</package>
